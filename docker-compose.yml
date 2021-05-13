@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   leetcodesolver:
-    image: simonfong6/leetcodesolver:0.0.1
+    image: simonfong6/isaacwang4076-leetcodesolver:0.0.1
     build:
         context: .
     ports:

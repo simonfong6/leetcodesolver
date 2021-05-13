@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: isaacwang4076-leetcodesolver
-          image: simonfong6/isaacwang4076-leetcodesolver:0.11
+          image: simonfong6/isaacwang4076-leetcodesolver:0.0.1
           ports:
             - containerPort: 9292
   strategy:
